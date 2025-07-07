@@ -1,0 +1,30 @@
+return {
+    ["Raccoon"] = {
+        Model = "Raccoon",
+        Actions = {"PickUp", "Feed", "View"},
+        Weight = 4,
+        Age = 1,
+        Rarity = "Epic"
+    },
+    ["Bunny"] = {
+        Model = "Bunny",
+        Actions = {"PickUp", "Feed", "View"},
+        Weight = 3,
+        Age = 1,
+        Rarity = "Common"
+    },
+    ["Golden Lab"] = {
+        Model = "Golden Lab",
+        Actions = {"PickUp", "View"},
+        Weight = 5,
+        Age = 2,
+        Rarity = "Uncommon"
+    },
+    ["Grey Mouse"] = {
+        Model = "Grey Mouse",
+        Actions = {"PickUp"},
+        Weight = 2.5,
+        Age = 1,
+        Rarity = "Rare"
+    }
+}
